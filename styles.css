@@ -278,9 +278,6 @@ footer p{
 section{
   transition: 300ms;
 }
-#display{
-  display: none;
-}
 section#events{
   width: 98%;
   height: 100%;
@@ -415,4 +412,4 @@ iframe{
   nav#menu {
     width:20%;
   }
-}
+  }}
